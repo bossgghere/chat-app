@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "firebase-tools": "^13.34.0",
+    "sql-formatter": "^15.5.0"
+  }
+}
