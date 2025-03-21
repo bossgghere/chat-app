@@ -1,3 +1,5 @@
+// ignore_for_file: unused_import
+
 import 'package:chat_app_gg/auth/auth_gate.dart';
 import 'package:chat_app_gg/auth/login_or_register.dart';
 import 'package:chat_app_gg/firebase_options.dart';
